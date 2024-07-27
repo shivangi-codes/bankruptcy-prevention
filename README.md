@@ -1,4 +1,4 @@
-# bankruptcy-prevention
+# Bankruptcy-prevention
 Data science-based project to predict and prevent bankruptcy 
 
 
