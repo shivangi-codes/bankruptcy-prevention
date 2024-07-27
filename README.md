@@ -25,6 +25,4 @@ STEPS:
 5. Feature enginnering
 6. Spillting the data for training and testing
 7. Model building
-8. Deployment
-   
-10. 
+8. Deployment 
