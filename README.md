@@ -16,6 +16,8 @@ The data set includes the following variables:
 7.	class: bankruptcy, non-bankruptcy (target variable).
 
 
+
+
 STEPS:
 1. Reading the understanding of the business problem
 2. Loading the dataset
